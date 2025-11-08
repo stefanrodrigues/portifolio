@@ -1,62 +1,73 @@
-# 🌟 Portfólio Pessoal - Stefan Rodrigues
+# Olá, eu sou o Stefan Rodrigues 👋
 
-Este é o repositório do meu portfólio pessoal, onde apresento minhas habilidades, experiências e projetos como Desenvolvedor Full Stack e Analista de Dados.
-
-O design foi inspirado no portfólio de [Junior-Vaz](https://github.com/Junior-Vaz/portifolio) e adaptado com minhas informações profissionais e estilo.
-
-**🚀 [Veja o site ao vivo](https://[SEU_USUARIO_GITHUB].github.io/portifolio/)** *(Após fazer o deploy no GitHub Pages)*
+<p align="left">
+  [cite_start]Sou <strong>Consultor de Telecomunicações</strong> [cite: 14] [cite_start]na <strong>Vivo (Telefônica Brasil)</strong> [cite: 27, 28][cite_start], com foco em <strong>Engenharia de Dados</strong> [cite: 31] [cite_start]e desenvolvimento em <strong>Golang</strong>[cite: 8].
+</p>
 
 ---
 
-## ✨ Funcionalidades Principais
+### 👨‍💻 Sobre Mim
 
-* **🎨 Tema Claro/Escuro:** Alternância de tema com persistência no `localStorage`.
-* **✍️ Efeito de Digitação:** Apresentação dinâmica dos meus cargos (Full Stack, Analista de Dados).
-* **🔍 Filtro de Projetos:** Filtro dinâmico para navegar pelos projetos por categoria (Full Stack, Data Science, etc.).
-* **📱 Totalmente Responsivo:** Design adaptado para funcionar em desktops, tablets e celulares.
-* **🛰️ Scroll Spy:** Menu de navegação que destaca a seção ativa automaticamente.
+[cite_start]Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes[cite: 16]. Nos últimos anos, tenho me especializado em dados, aplicando esse conhecimento no setor de telecom.
 
----
+Atualmente, minhas principais responsabilidades na Vivo incluem:
 
-## 🛠️ Tecnologias Utilizadas
+* [cite_start]**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python** [cite: 32][cite_start], além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**[cite: 33].
+* [cite_start]**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**[cite: 34].
+* [cite_start]**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede [cite: 36, 37][cite_start], utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**[cite: 37, 38].
 
-Este projeto foi construído "do zero" (vanilla) utilizando as tecnologias fundamentais da web:
-
-* **HTML5:** Para a estrutura semântica do conteúdo.
-* **CSS3:** Para toda a estilização, layout (Flexbox/Grid) e responsividade.
-* **JavaScript (ES6+):** Para todas as funcionalidades interativas (troca de tema, filtro, efeito de digitação).
-
-### Bibliotecas Externas
-
-* **Font Awesome:** Para os ícones.
-* **Google Fonts:** Para a tipografia (Inter e JetBrains Mono).
+[cite_start]Sou certificado em **"Concurrency in Go"** [cite: 20][cite_start], **"Fundamentos de Data Science I e II"** [cite: 23, 25] [cite_start]e **"AI Agents and Agentic AI"**[cite: 21].
 
 ---
 
-## 🚀 Como Usar este Projeto
+### 🛠️ Meu Stack de Tecnologias
 
-Você pode usar este código como base para seu próprio portfólio:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/portifolio.git
-    ```
-2.  **Personalize o `index.html`:**
-    * Altere os textos nas seções "Sobre Mim" e "Hero".
-    * Adicione seus próprios projetos na seção `id="projects"`, substituindo os exemplos.
-    * Atualize os links para seu LinkedIn, GitHub, Email e CV.
-    * Adicione o link do seu [Formspree](https://formspree.io/) no `action` do formulário de contato.
-3.  **Personalize o `style.css` (Opcional):**
-    * Altere as variáveis de cor no `:root` para criar sua própria paleta.
-4.  **Faça o Deploy:**
-    * Envie os arquivos para um repositório seu no GitHub.
-    * Vá em **Settings > Pages**.
-    * Em **Branch**, selecione `main` (ou `master`) e a pasta `/root`.
-    * Salve e aguarde alguns minutos para seu site estar no ar!
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="#"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cacti-43A047?style=for-the-badge&logo=cacti&logoColor=white" alt="Cacti"></a>
+</p>
 
 ---
 
-## 📞 Contato
+### 📊 Minhas Estatísticas do GitHub
 
-* **LinkedIn:** [https://www.linkedin.com/in/stefan-rodrigues-226584b/](https://www.linkedin.com/in/stefan-rodrigues-226584b/)
-* **Email:** `[SEU_EMAIL@gmail.com]`
+<p align="center">
+  <a href="https://github.com/anuragazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/anuragazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
+
+---
+
+### 📫 Como me Encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/stefan-rodrigues-226584b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:stefan.rodrigues@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
