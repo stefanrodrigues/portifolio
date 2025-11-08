@@ -1,14 +1,14 @@
 # Olá, eu sou o Stefan Rodrigues 👋
 
 <p align="left">
-Sou <strong>Consultor de Telecomunicações</strong>, com foco em Engenharia de Dados e desenvolvimento.
+Sou <strong>Consultor de Telecomunicações</strong>, com foco em Engenharia de Dados e Desenvolvimento.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes. Nos últimos anos, tenho me especializado em dados, aplicando esse conhecimento no setor de telecomunicações.
+Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes nos principais players do mercado. Nos últimos anos, tenho me especializado em desenvolvimento de ferramentas computacionais e análise de dados para desempenho de rede, aplicando esse conhecimento no setor de telecomunicações.
 
 Atualmente, minhas principais responsabilidades na Vivo incluem:
 
@@ -42,19 +42,6 @@ Atualmente, minhas principais responsabilidades na Vivo incluem:
   
   <a href="#"><img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"></a>
   <a href="#"><img src="https://img.shields.io/badge/Cacti-43A047?style=for-the-badge&logo=cacti&logoColor=white" alt="Cacti"></a>
-</p>
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/anuragazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/anuragazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
-  </a>
 </p>
 
 ---
