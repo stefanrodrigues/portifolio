@@ -2,8 +2,12 @@
    EFEITO DE DIGITAÇÃO (TYPING EFFECT)
    ================================================================== */
 const typingText = document.querySelector('.typing-effect');
-// Textos para o efeito, baseados no seu LinkedIn
-const roles = ["Desenvolvedor Full Stack", "Analista de Dados", "Cientista de Dados"]; 
+// Textos para o efeito, baseados no seu PDF
+const roles = [
+    [cite_start]"Consultor de Telecomunicações", // [cite: 14]
+    [cite_start]"Engenheiro de Dados", // [cite: 31]
+    [cite_start]"Desenvolvedor Golang" // [cite: 8]
+]; 
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
@@ -82,6 +86,7 @@ themeToggle.addEventListener('click', () => {
 /* ==================================================================
    FILTRO DE PROJETOS
    ================================================================== */
+// Os valores em 'data-filter' devem bater com os 'data-category' no HTML
 const filterButtons = document.querySelectorAll('.project__filter-btn');
 const projectCards = document.querySelectorAll('.project-card');
 
