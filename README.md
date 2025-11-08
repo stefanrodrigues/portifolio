@@ -8,13 +8,13 @@ Sou <strong>Consultor de Telecomunicações</strong>, com foco em Engenharia de 
 
 ### 👨‍💻 Sobre Mim
 
-Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes nos principais players do mercado. Nos últimos anos, tenho me especializado em desenvolvimento de ferramentas computacionais e análise de dados para desempenho de rede, aplicando esse conhecimento no setor de telecomunicações.
+Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes de transmissão (TX) nos principais players do mercado. Nos últimos anos, tenho me especializado em desenvolvimento de ferramentas computacionais e análise de dados para desempenho de rede, aplicando esse conhecimento para geração de valor na operadora.
 
 Atualmente, minhas principais responsabilidades na Vivo incluem:
 
-**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python**, além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**.
-**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**.
-**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede, utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**.
+<p>**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python**, além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**.</p>
+<p>**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**.</p>
+<p>**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede, utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**.</p>
 
 ---
 
